@@ -2,6 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "TartanHacks Backend",
+    "description": "TartanHacks Backend API documentation.",
     "version": "0.0.1"
   },
   "basePath": "/",
