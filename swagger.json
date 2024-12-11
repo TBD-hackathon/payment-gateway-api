@@ -4,7 +4,9 @@
     "title": "TartanHacks Backend TEST",
     "description": "TartanHacks Backend API documentation.",
     "version": "0.0.1",
-    "team": "foo"
+    "team": "foo",
+    "x-team": "foo",
+    "x-is-beta": true
   },
   "basePath": "/",
   "components": {
