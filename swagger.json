@@ -1,9 +1,10 @@
 {
   "openapi": "3.0.1",
   "info": {
-    "title": "TartanHacks Backend TEST",
-    "description": "TartanHacks Backend API documentation.",
+    "title": "Payment Gateway API",
+    "description": "Seamlless payment processing and transaction management",
     "version": "0.0.1",
+    "team": "foo",
     "x-team": "foo",
     "x-is-beta": true
   },
