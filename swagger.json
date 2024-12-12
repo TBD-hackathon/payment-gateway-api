@@ -4,7 +4,7 @@
     "title": "Payment Gateway API",
     "description": "Seamlless payment processing and transaction management",
     "version": "0.0.1",
-    "team": "foo",
+    "team": "frontend-team",
     "x-team": "foo",
     "x-is-beta": true
   },
